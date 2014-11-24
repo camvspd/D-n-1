@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="co.cc.edict.AboutUsFragment" >
+
+
+      <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#FF0000"
+        android:text="* Mọi vấn đề liên quan đến ứng dụng cần được giải đáp vui lòng liên hệ 01657515473 hoặc gmail: Camvspd00930@gmail.com.vn"
+        />
+
+</FrameLayout>

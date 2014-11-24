@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="co.cc.edict.GioiThieuFragment" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="* Bạn có muốn trở thành một “thánh ăn” thật “oách xà lách” dưới ánh mắt trầm trồ ngưỡng mộ của tụi bạn bởi độ rành rọt đến từng “đường tơ kẽ tóc” các nhà hàng quán ăn ở Đà Thành(Đà Nẵng). “Món Ngon Đà Thành” sẽ giúp bạn thực hiện điều đó.“Món Ngon Đà Thành” là ứng dụng tìm địa điểm ăn uống nhanh và rất tiện lợi. Bạn có thể tìm thấy hàng ngàn địa điểm ăn ngon đã được review do cộng đồng trải nghiệm. "        
+        android:textSize="20dp"
+        android:id="@+id/tv_gt"
+        android:textColor="#0000CC" />
+   
+    
+
+</FrameLayout>

@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <ImageView
+        android:id="@+id/ImgMAC"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="150dp"
+        android:src="@drawable/ic_menuhangquan" />
+
+    <ImageView
+        android:id="@+id/ImgMAV"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_marginLeft="700dp"
+        android:layout_marginTop="150dp"
+        android:src="@drawable/ic_menuanvat" />
+
+</RelativeLayout>

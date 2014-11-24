@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dự án</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_thuc_don">Thực Đơn</string>
+    <string name="title_activity_tim_kiem">TimKiemActivity</string>
+    <string name="title_activity_gioi_thieu">GioiThieuActivity</string>
+    <string name="title_activity_mon_an_chinh">Hàng Quán</string>
+    <string name="title_activity_mon_an_vat">Ăn Vặt</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_giao_dien">GiaoDienActivity</string>
+    <string name="title_activity_com">ComActivity</string>
+    <string name="title_activity_pho">PhoActivity</string>
+    <string name="title_activity_bun">BunActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string-array name="drawer_title_array">
+        <item>Màn Hình Chính</item>
+        <item>Giới Thiệu</item>
+        <item>Hỗ Trợ</item>
+    </string-array>
+
+    <array name="drawer_icon_array">
+        <item>@drawable/ic_menu_home</item>
+        <item>@drawable/ic_menu_new_word</item>
+        <item>@drawable/ic_menu_new_word</item>
+    </array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_demo">Địa Điểm Hàng Quán</string>
+    <string name="title_activity_list_an_vat">Món ăn Vặt</string>
+
+</resources>
